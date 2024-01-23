@@ -1,7 +1,6 @@
 import React from 'react'
 import './Megacard.css'
-import '../learn_more/LearnButton'
-import LearnButton from '../learn_more/LearnButton'
+
 
 function Megacard({iconURL, iconLabel, sideImageURL, heading, para, learn, largeicon}) {
   return (
